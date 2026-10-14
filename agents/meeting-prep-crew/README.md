@@ -17,8 +17,8 @@ This Streamlit application leverages multiple AI agents to create comprehensive 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/single_agent_apps/ai_meeting_agent
+git clone https://github.com/Sup3rMar10/agent-lab.git
+cd agent-lab/agents/meeting-prep-crew
 ```
 2. Install the required dependencies:
 

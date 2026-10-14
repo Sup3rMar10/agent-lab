@@ -16,8 +16,8 @@ An AI-powered multi-agent codebase migration assistant built with **LangGraph** 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_codebase_migration_agent
+   git clone https://github.com/Sup3rMar10/agent-lab.git
+   cd agent-lab/agents/codebase-migration-planner
    ```
 
 2. **Install dependencies**

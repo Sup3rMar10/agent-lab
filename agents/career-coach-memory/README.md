@@ -23,8 +23,8 @@ The point isn't just routing between specialists — it's that the advice actual
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/advanced_llm_apps/llm_apps_with_memory_tutorials/adk_career_coach_agent_memory
+git clone https://github.com/Sup3rMar10/agent-lab.git
+cd agent-lab/agents/career-coach-memory
 ```
 
 2. Install the required dependencies:
